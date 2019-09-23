@@ -1,0 +1,2 @@
+Este é o arquivo3.txt
+Versão 1.
